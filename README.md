@@ -1,2 +1,2 @@
 # PythonProblems
-This repo contains solutions of Hackerrank Problems.
+This repo contains solutions of DSA Problems.
